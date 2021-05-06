@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15357" started-at="2021-04-15T06:23:36Z" finished-at="2021-04-15T06:23:51Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15357" started-at="2021-04-15T06:23:36Z" finished-at="2021-04-15T06:23:51Z">
+      <class name="org.test.Facebook">
+        <test-method status="PASS" signature="launch(org.openqa.selenium.Platform, java.lang.String, java.lang.String)[pri:0, instance:org.test.Facebook@5034c75a]" name="launch" duration-ms="12929" started-at="2021-04-15T06:23:36Z" data-provider="getData" finished-at="2021-04-15T06:23:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[WIN8]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[65]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="launch(org.openqa.selenium.Platform, java.lang.String, java.lang.String)[pri:0, instance:org.test.Facebook@5034c75a]" name="launch" duration-ms="11895" started-at="2021-04-15T06:23:36Z" data-provider="getData" finished-at="2021-04-15T06:23:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[MAC]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[70]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="launch(org.openqa.selenium.Platform, java.lang.String, java.lang.String)[pri:0, instance:org.test.Facebook@5034c75a]" name="launch" duration-ms="15264" started-at="2021-04-15T06:23:36Z" data-provider="getData" finished-at="2021-04-15T06:23:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[WINDOWS]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[65]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+      </class> <!-- org.test.Facebook -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
